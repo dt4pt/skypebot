@@ -1,0 +1,27 @@
+{
+  "name": "skypebot",
+  "version": "1.0.0",
+  "description": "Skype chatbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "gobot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dt4pt/skypebot.git"
+  },
+  "keywords": [
+    "Skype",
+    "Chatbot"
+  ],
+  "author": "David Tait",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/dt4pt/skypebot/issues"
+  },
+  "homepage": "https://github.com/dt4pt/skypebot#readme",
+  "dependencies": {
+    "botbuilder": "^3.9.1",
+    "restify": "^5.2.0"
+  }
+}
